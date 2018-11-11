@@ -1,0 +1,12 @@
+O LAMP- (linux, Apache, Mysql, PHP)
+Linux operating system, 
+the Apache HTTP Server, 
+the MySQL relational database management system, 
+and the PHP programming language.
+
+Um conjunto de software livre para criação da aplicaçao web na sua maquina local
+
+Clique o link abaixo para o tutorial de installação completo na sua maquina-Linux
+NS- Quem usa windows, procura instalar WAMP.
+
+https://www.digitalocean.com/community/tags/lamp-stack?type=tutorials

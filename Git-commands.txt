@@ -1,0 +1,20 @@
+Editor de texto preferido (Visual studio Code)
+Linux/Ubuntu Git installation (update/upgrade local repositorio)
+
+--> sudo apt-get install git 
+
+Login to Git
+--> git config --global user.name "Sam Smith"
+--> git config --global user.email sam@example.com
+
+Clonar o repositorio
+--> git clone https://chrismomentus@bitbucket.org/chrismomentus/trabbd-2018.git
+
+Atualizações do repositorio
+--> Git pull origin master
+
+Adiciona/enviar para o repositorio
+--> git add *
+--> git commit -m "texto do commit"
+--> git status
+--> git push origin master

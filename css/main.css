@@ -1,0 +1,22 @@
+.header {
+    background-color: #f1f1f1;
+    padding: 12px;
+    text-align: center;
+  }
+
+  .tooltable{
+    border-radius: 2px;
+    background-color: #efefef;
+    padding: 0 3% 2% 3%;
+    /*border: 5px solid #dedede;*/
+    box-shadow: 0 0 30px #003;
+  }
+
+  .container{
+    position: relative;
+    display: block;
+    width: 1000px;
+    margin: 30px auto;
+    padding: 0;
+    padding-bottom: -3%;
+    }
