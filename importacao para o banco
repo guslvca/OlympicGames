@@ -1,0 +1,38 @@
+/*
+Lixo
+
+LOAD DATA LOCAL LOAD DATA LOCAL INFILE '/var/lib/mysql-files/Summer.csv' INTO
+TABLE summer FIELDS TERMINATED BY ',' LINES TERMINATED BY '\n';
+
+# mysql -u root -p --local_infile=1 Olimpiada -e " LOAD DATA LOCAL INFILE
+# '/var/lib/mysql-files/Summer.csv' INTO TABLE Summer FIELDS TERMINATED BY ','
+# enclosed by '\"'"
+
+mysql -u root -p Olimpiada -e "LOAD DATA INFILE
+'/home/gustavo/Desktop/TrabBD/summer.csv' INTO TABLE Summer"
+
+ mysql -u root -p 24354194 --local_infile=1 Olimpiada -e " LOAD DATA LOCAL
+ INFILE '/home/gustavo/Desktop/TrabBD/summer.csv' INTO Table Summer FIELDS
+ TERMINATED BY ','"
+
+ mysqlimport  --fields-terminated-by=, --verbose --local -u root -p Olimpiada
+ /home/gustavo/Desktop/TrabBD/summer.csv --ignore-lines=1*/
+
+#importacao para o banco que funciona
+
+mysqlimport --fields-optionally-enclosed-by='"' --fields-terminated-by=',' --ignore-lines=1 --lines-terminated-by='\n' --user=root -p Olimpiada /var/lib/mysql-files/Summer.csv
+
+#dump para o banco
+
+para Exportar: mysqldump -uroot -p nome_do_banco > /home/bkp.database.sql
+
+Exemplo na minha máquina: sudo mysqldump -uroot -p Olimpiada > /var/www/html/trabbd-2018/Olimpiadas.sql
+
+Para Carregar esse Dump: source /home/bkp.database.sql
+/*Não tenho certeza.*/
+Exemplo na minha máquina : sudo mysql source -u root -p Olimpiada > /var/www/html/trabbd-2018/Olimpiadas.sql
+
+Commitando atualizacoes:
+git add *
+git commit -m "mensagem"
+git push origin master
