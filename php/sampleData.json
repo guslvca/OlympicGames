@@ -1,0 +1,10 @@
+{
+    "cols": [
+          {"id":"","label":"Genero","pattern":"","type":"string"},
+          {"id":"","label":"Count_Modalidade","pattern":"","type":"number"}
+        ],
+    "rows": [
+          {"c":[{"v":"Homem","f":null},{"v":5.55,"f":null}]},
+          {"c":[{"v":"Mulher","f":null},{"v":4.45,"f":null}]}
+        ]
+  }
