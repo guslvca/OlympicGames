@@ -22,7 +22,7 @@
     <div class="header">
 	<h2 style="padding: 0 40px 0 0;">DataSet: Olimpidas</h2>
 	<p>O banco de dados entre 19** ate 2016</p>
-    <p>O web esta rodando, nao-pronto mas rodando, lets create the database </p>
+    <p>O web esta rodando, nao-pronto  rodando, lets create the database </p>
     <p>Test com banco de dados dado na aula EMPRESA.sql (mostrando tabela -> Departamento) </p>
     <br>
     <h2>View All Databases on DataSet</h2>
