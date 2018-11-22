@@ -17,10 +17,11 @@
 
 
     <div class="header">
-	<h2 style="padding: 0 40px 0 0;">DataSet: Olimpidas</h2>
-	<p>O banco de dados entre 19** ate 2016</p>
-    <p>O web esta rodando, nao-pronto mas rodando, lets create the database </p>
-    <p>Test com banco de dados dado na aula EMPRESA.sql (mostrando tabela -> Departamento) </p>
+	<a class="navbar-brand" href="#" style="padding:1px;">
+        <img src="/OlympicGames/img/olim.png"class="img_logo" >
+        </a>
+        <h3 style="font-size:2em; color:#5e5b5b;">The Olympic: DataSet</h3>
+    <br>
     <tr>
         <td>
             <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -47,7 +48,7 @@
         printf("Connect failed: %s\n", mysqli_connect_error());
         exit();
     }
-    $resultsql = "SELECT Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal FROM Summer";
+    $resultsql = "SELECT Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal FROM Summer LIMIT 100";
     $result = mysqli_query($conexao, $resultsql);
     if(!$result){
 
