@@ -10,6 +10,8 @@
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        
+        
     </head>
     <body>
     <div class="container" >
@@ -28,12 +30,15 @@
                 <tr>
                     
                     <td width="50">&nbsp;</td>
-                    <td align="right"><input type="button" value="Limpar pagina." name="button2" onclick=" window.location.href='/OlympicGames/index.php';" ></td>
+                    <td align="right"><input type="button" value="Limpar pagina." name="button2" onclick=" window.location.href='/OlympicGames/index.php';" /></td>
                 </tr>
             </table>
         </td>
     </tr>
     </div>
+    
+   
+    <br>
     <?php
 
     $conexao = mysqli_connect("localhost","grupo_bd","12345","Olimpiada");
@@ -48,28 +53,45 @@
         printf("Connect failed: %s\n", mysqli_connect_error());
         exit();
     }
-    $resultsql = "SELECT NOME_ATLETA,NOME_ESPORTE,MODALIDADE,ANO_CONQUISTA,MEDALHA FROM atletaesporte LIMIT 1000";
+
+    if(isset($_POST['search'])){
+        $q = $_POST['q'];
+
+    $resultsql = "SELECT * FROM Summer WHERE  Summer.Athlete LIKE '%$q%' OR Summer.Country  LIKE '%$q%'";
     $result = mysqli_query($conexao, $resultsql);
     if(!$result){
 
         die('could not query:'. mysqli_error());
     }
     if($result->num_rows > 0){
-        echo "<table class='table table-striped table-bordered table-hover'>
-        <thead class='thead-dark'>
-        <tr><th>NOME ATLETA</th><th>ESPORTE</th><th>MODALIDADE</th>
-        <th>ANO DE CONQUISTA</th>
-        <th>MEDALHA</th>
         
-
-        </tr>
-        </thead>";
+        echo"
+        <table class='table table-striped table-bordered table-hover'>
+            <thead class='thead-dark'>
+            <tr>
+                <th>ATHLETE</th>
+                <th>YEAR</th>
+                <th>CITY</th>
+                <th>SPORT</th>
+                <th>DISCIPLINE</th>
+                
+                <th>COUNTRY</th>
+                <th>GENDER</th>
+                <th>EVENT</th>
+                <th>MEDAL</th>
+                
+                
+                
+            </tr>
+            </thead>";
 
         while($row = mysqli_fetch_assoc($result)){
-            echo "<tr><td>".$row["NOME_ATLETA"]."</td><td>".$row["NOME_ESPORTE"]."</td><td>".$row["MODALIDADE"]."</td>
-            <td>".$row["ANO_CONQUISTA"]."</td>
-            <td>".$row["MEDALHA"]."</td>
+            echo "<tr><td>".$row["Athlete"]."</td><td>".$row["Year"]."</td><td>".$row["City"]."</td><td>".$row["Sport"]."</td><td>".$row["Discipline"]."</td>
             
+            <td>".$row["Country"]."</td>
+            <td>".$row["Gender"]."</td>
+            <td>".$row["Event"]."</td>
+            <td>".$row["Medal"]."</td>
 
 
             </tr>";
@@ -80,6 +102,7 @@
     else{
         echo "0 results";
     }
+}
     mysqli_close($conexao);
 
     ?>

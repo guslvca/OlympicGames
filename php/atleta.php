@@ -26,9 +26,9 @@
         <td>
             <table width="100%" border="0" cellspacing="0" cellpadding="0">
                 <tr>
-                    <td align="left"><input type="button" value="Show All Database" name="button1" onclick=" " /></td>
+                    
                     <td width="50">&nbsp;</td>
-                    <td align="right"><input type="button" value="Limpar pagina." name="button2" onclick=" window.location.href='/OlympicGames/index.php';" /></td>
+                    <td align="right"><input type="button" value="Limpar pagina." name="button2" onclick=" window.location.href='/OlympicGames/index.php';" ></td>
                 </tr>
             </table>
         </td>
@@ -48,19 +48,22 @@
         printf("Connect failed: %s\n", mysqli_connect_error());
         exit();
     }
-    $resultsql = "SELECT NOME,GENERO,PAIS_ORIGEM,TECNICO,PREPARADOR_FISICO FROM atleta LIMIT 100";
+    $resultsql = "SELECT NOME,GENERO,PAIS_ORIGEM,TECNICO,PREPARADOR_FISICO FROM atleta LIMIT 1000";
     $result = mysqli_query($conexao, $resultsql);
     if(!$result){
 
         die('could not query:'. mysqli_error());
     }
     if($result->num_rows > 0){
-        echo "<table><tr><th>NOME</th><th>GENERO</th><th>PAIS_ORIGEM</th>
+        echo "<table class='table table-striped table-bordered table-hover'>
+        <thead class='thead-dark'>
+        <tr><th>NOME</th><th>GENERO</th><th>PAIS_ORIGEM</th>
         <th>TECNICO</th>
         <th>PREPARADOR_FISICO</th>
         
 
-        </tr>";
+        </tr>
+        </thead>";
 
         while($row = mysqli_fetch_assoc($result)){
             echo "<tr><td>".$row["NOME"]."</td><td>".$row["GENERO"]."</td><td>".$row["PAIS_ORIGEM"]."</td>

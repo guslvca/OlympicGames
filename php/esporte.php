@@ -6,7 +6,7 @@
         <title>Banco de dados de Olimpidas - 1888-2014</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-        <link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
+        <link rel="stylesheet" type="text/css" media="screen" href="/OlympicGames/css/main.css" />
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
@@ -17,17 +17,18 @@
 
 
     <div class="header">
-	<h2 style="padding: 0 40px 0 0;">DataSet: Olimpidas</h2>
-	<p>O banco de dados entre 19** ate 2016</p>
-    <p>O web esta rodando, nao-pronto mas rodando, lets create the database </p>
-    <p>Test com banco de dados dado na aula EMPRESA.sql (mostrando tabela -> Departamento) </p>
+	<a class="navbar-brand" href="#" style="padding:1px;">
+        <img src="/OlympicGames/img/olim.png"class="img_logo" >
+        </a>
+        <h3 style="font-size:2em; color:#5e5b5b;">The Olympic: DataSet</h3>
+    <br>
     <tr>
         <td>
             <table width="100%" border="0" cellspacing="0" cellpadding="0">
                 <tr>
-                    <td align="left"><input type="button" value="Show All Database" name="button1" onclick=" " /></td>
+                    
                     <td width="50">&nbsp;</td>
-                    <td align="right"><input type="button" value="Limpar pagina." name="button2" onclick=" window.location.href='/OlympicGames/index.php';" /></td>
+                    <td align="right"><input type="button" value="Limpar pagina." name="button2" onclick=" window.location.href='/OlympicGames/index.php';" ></td>
                 </tr>
             </table>
         </td>
@@ -47,29 +48,28 @@
         printf("Connect failed: %s\n", mysqli_connect_error());
         exit();
     }
-    $resultsql = "SELECT Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal FROM Summer";
+    $resultsql = "SELECT NOME_ESPORTE,MODALIDADE,TIPO_LOCAL FROM esporte LIMIT 1000";
     $result = mysqli_query($conexao, $resultsql);
     if(!$result){
 
         die('could not query:'. mysqli_error());
     }
     if($result->num_rows > 0){
-        echo "<table><tr><th>Year</th><th>City</th><th>Sport</th><th>Discipline</th>
-        <th>Athlete</th>
-        <th>Country</th>
-        <th>Gender</th>
-        <th>Event</th>
-        <th>Medal</th>
+        echo "<table class='table table-striped table-bordered table-hover'>
+        <thead class='thead-dark'>
+        <tr><th>NOME DE ESPORTES</th><th>MODALIDADE</th>
+        <th>TIPO DE LOCAL</th>
+        
+        
 
-        </tr>";
+        </tr>
+        </thead>";
 
         while($row = mysqli_fetch_assoc($result)){
-            echo "<tr><td>".$row["Year"]."</td><td>".$row["City"]."</td><td>".$row["Sport"]."</td><td>".$row["Discipline"]."</td>
-            <td>".$row["Athlete"]."</td>
-            <td>".$row["Country"]."</td>
-            <td>".$row["Gender"]."</td>
-            <td>".$row["Event"]."</td>
-            <td>".$row["Medal"]."</td>
+            echo "<tr><td>".$row["NOME_ESPORTE"]."</td><td>".$row["MODALIDADE"]."</td>
+            <td>".$row["TIPO_LOCAL"]."</td>
+            
+            
 
 
             </tr>";

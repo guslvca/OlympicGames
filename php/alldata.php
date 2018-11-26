@@ -55,14 +55,17 @@
         die('could not query:'. mysqli_error());
     }
     if($result->num_rows > 0){
-        echo "<table><tr><th>Year</th><th>City</th><th>Sport</th><th>Discipline</th>
+        echo "<table class='table table-striped table-bordered table-hover'>
+        <thead class='thead-dark'>
+        <tr><th>Year</th><th>City</th><th>Sport</th><th>Discipline</th>
         <th>Athlete</th>
         <th>Country</th>
         <th>Gender</th>
         <th>Event</th>
         <th>Medal</th>
 
-        </tr>";
+        </tr>
+        </thead>";
 
         while($row = mysqli_fetch_assoc($result)){
             echo "<tr><td>".$row["Year"]."</td><td>".$row["City"]."</td><td>".$row["Sport"]."</td><td>".$row["Discipline"]."</td>

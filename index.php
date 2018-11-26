@@ -109,9 +109,10 @@
 					<tr>
                         <td>
                         <div id="chart_div" style="width: 40%; height: 30%;"></div>
+                        
                         </td>
                         <td style="background-color: rgb(163, 215, 241); width: 60%; height: 30%;">
-                        <h3>Consultas envolvendo a junção de três relações</h3>
+                        <h3>Consultas envolvendo a junção de duas relações</h3>
                         <p>Medalha conquistada no ano 2012 por Homem e Mulher, Duas consultas <i>create view</i> focado por Pais e Medalhas conquistada nas olimpiadas de Summer. 
                             Para acessar o banco dessa consulta <a href="php/paisourohm.php">clique aqui</a></p>
                         </td>
@@ -139,6 +140,20 @@
                             na olimpiada em Londres no ano 2012, conforme o grafico mostra um numero pequeno das atletas, para visualizar a tabela completa <a href="php/nomeatlbra.php">clique aqui</a></p>
                         </td>
                     </tr>
+                    <tr>
+                        <td style="width: 40%; height: 30%; padding: 6% 0 4% 0;">
+                                <form method="POST" action="php/search.php">
+                                        <input type="text" name="q" placeholder="query">
+                                        <input type="submit" name="search" value="Search">
+                                    </form>
+                                    
+
+                        </td>
+                        <td style="background-color: rgb(163, 215, 241); width: 60%; height: 30%;">
+                            
+                        </td>
+                    </tr>
+                    
 					</div>
 				</table>
 		</div>
