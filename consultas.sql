@@ -44,7 +44,7 @@
  
  --Número total de medalhas por pais no ano de 2012
  create view SomaOuro as 
- select distinct PaisOuroHomem.PAIS_ORIGEM , N + M 
+ select distinct PaisOuroHomem.PAIS_ORIGEM , N + M as NM
  from PaisOuroHomem inner join PaisOuroMulher 
  on PaisOuroHomem.PAIS_ORIGEM = PaisOuroMulher.PAIS_ORIGEM ; 
 
@@ -53,7 +53,7 @@ select distinct PaisOuroHomem.PAIS_ORIGEM , M
  from PaisOuroHomem inner join PaisOuroMulher 
  on PaisOuroHomem.PAIS_ORIGEM = PaisOuroMulher.PAIS_ORIGEM ; 
 
- -- Quais atletas ganharam medalha de ouro em londres 2012. 
+ -- Quais atletas Brasileiros ganharam medalha de ouro em londres 2012. 
 select distinct NOME_ATLETA,ANO_CONQUISTA,MEDALHA , MODALIDADE
 from atletaesporte inner join atleta
 on NOME_ATLETA = NOME

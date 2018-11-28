@@ -1,0 +1,850 @@
+NOMEESPORTE;MODALIDADE
+Swimming;100M Freestyle
+Swimming;100M Freestyle For Sailors
+Swimming;1200M Freestyle
+Swimming;400M Freestyle
+Athletics;100M
+Athletics;110M Hurdles
+Athletics;1500M
+Athletics;400M
+Athletics;800M
+Athletics;Discus Throw
+Athletics;High Jump
+Athletics;Long Jump
+Athletics;Marathon
+Athletics;Pole Vault
+Athletics;Shot Put
+Athletics;Triple Jump
+Cycling Road;Individual Road Race
+Cycling Track;100KM
+Cycling Track;10KM
+Cycling Track;12-Hour Race
+Cycling Track;1KM Time Trial
+Cycling Track;Sprint Indivual
+Fencing;Foil Individual
+Fencing;Foil, Masters
+Fencing;Sabre Individual
+Artistic G.;Horizontal Bar
+Artistic G.;Parallel Bars
+Artistic G.;Pommel Horse
+Artistic G.;Rings
+Artistic G.;Rope Climbing
+Artistic G.;Team, Horizontal Bar
+Artistic G.;Team, Parallel Bars
+Artistic G.;Vault
+Shooting;25M Army Pistol
+Shooting;25M Rapid Fire Pistol (60 Shots)
+Shooting;50M Pistol (60 Shots)
+Shooting;Army Rifle, 200M
+Shooting;Army Rifle, 300M
+Tennis;Doubles
+Tennis;Singles
+Weightlifting;Heavyweight - One Hand Lift
+Weightlifting;Heavyweight - Two Hand Lift
+Wrestling Gre-R;Open Event
+Swimming;1500M Freestyle
+Swimming;200M Backstroke
+Swimming;200M Freestyle
+Swimming;200M Obstacle Event
+Swimming;200M Team Swimming
+Swimming;4000M Freestyle
+Swimming;Underwater Swimming
+Water polo;Water Polo
+Archery;Au Chapelet, 33M
+Archery;Au Chapelet, 50M
+Archery;Au Cordon Dor??, 33M
+Archery;Au Cordon Dor??, 50M
+Archery;Sur La Perche ?� La Herse
+Archery;Sur La Perche ?� La Pyramide
+Athletics;200M
+Athletics;200M Hurdles
+Athletics;3000M Steeplechase
+Athletics;4000M Steeplechase
+Athletics;400M Hurdles
+Athletics;5000M Team
+Athletics;60M
+Athletics;Hammer Throw
+Athletics;High Jump, Standing
+Athletics;Long Jump, Standing
+Athletics;Triple Jump, Standing
+Basque Pelota;Cesta Punta
+Cricket;Cricket
+Croquet;Double
+Croquet;Individual 1 Ball
+Croquet;Individual 2 Balls
+Cycling Track;25 Kilometres
+Jumping;High Jump
+Jumping;Individual
+Jumping;Long Jump Individual
+Fencing;Épée Individual
+Fencing;Épée, Amateurs And Masters
+Fencing;Épée, Masters
+Fencing;Sabre, Masters
+Football;Football
+Golf;Individual
+Artistic G.;Individual All-Round
+Polo;Polo
+Rowing;Eight With Coxswain (8+)
+Rowing;Four-Oared Shell With Coxswain (4-)
+Rowing;Pair-Oared Shell With Coxswain (2+)
+Rowing;Single Sculls (1X)
+Rugby;Rugby
+Sailing;0.5-1T
+Sailing;10-20T
+Sailing;3-10T
+Sailing;Open Class
+Shooting;50M Army Pistol, Team
+Shooting;Army Rifle, 300M, 3 Positions
+Shooting;Army Rifle, 300M, Kneeling
+Shooting;Army Rifle, 300M, Prone
+Shooting;Army Rifle, 300M, Standing
+Shooting;Free Rifle, Team
+Shooting;Trap (125 Targets)
+Tennis;Mixed Doubles
+Tug of War;Tug Of War
+Diving;10M Platform
+Diving;Plunge For Distance
+Swimming;100M Backstroke
+Swimming;400M Breaststroke
+Swimming;4X50Y Freestyle Relay
+Swimming;50Y Freestyle (45.72M)
+Swimming;880Y Freestyle (804.66M)
+Archery;Double American Round (60Y - 50Y - 40Y)
+Archery;Double Columbia Round (50Y - 40Y - 30Y)
+Archery;Double National Round (60Y - 50Y)
+Archery;Double York Round (100Y - 80Y - 60Y)
+Archery;Team Round 60Y
+Archery;Teams Fita Round
+Athletics;4Miles Team
+Athletics;56LB Weight Throw (25.4KG)
+Athletics;Decathlon
+Athletics;Triathlon (Long Jump / Shot Put / 100 Yards)
+Boxing;- 47.63KG (Flyweight)
+Boxing;+ 71.67KG (Heavyweight)
+Boxing;47.63 - 52.16KG (Bantamweight)
+Boxing;52.16 - 56.7KG (Featherweight)
+Boxing;56.7 - 61.24KG (Lightweight)
+Boxing;61.24 - 65.77KG (Welterweight)
+Boxing;65.77 - 71.67KG (Middleweight)
+Cycling Track;1 Mile (1609.3M)
+Cycling Track;1/2 Mile (804.7M)
+Cycling Track;1/3 Mile (536.5M)
+Cycling Track;1/4 Mile (402.3M)
+Cycling Track;2 Miles (3.218KM)
+Cycling Track;25 Miles (40.232KM)
+Cycling Track;5 Miles (8.046KM)
+Fencing;Foil Team
+Fencing;Stick, Single
+Golf;Team
+Artistic G.;Club Swinging
+Artistic G.;Combined 3 Events
+Artistic G.;Combined 4 Events
+Artistic G.;Team Competition
+Lacrosse;Lacrosse
+Roque;Individual
+Rowing;Coxless Pair (2-)
+Rowing;Double Sculls (2X)
+Rowing;Four Without Coxswain (4-)
+Weightlifting;All-Around Dumbbell Contest
+Wrestling Free.;- 47.6KG (Light-Flyweight)
+Wrestling Free.;+ 71.67KG (Heavyweight)
+Wrestling Free.;47.6 - 52.16KG (Flyweight)
+Wrestling Free.;52.16 - 56.7KG (Bantamweight)
+Wrestling Free.;56.7 - 61.23KG (Featherweight)
+Wrestling Free.;61.23 - 65.77KG (Lightweight)
+Wrestling Free.;65.77 - 71.67KG (Welterweight)
+Diving;3M Springboard
+Swimming;200M Breaststroke
+Swimming;4X200M Freestyle Relay
+Archery;Continental Style 50M
+Archery;National Round (60Y - 50Y)
+Archery;York Round (100Y - 80Y - 60Y)
+Athletics;10Miles Walk (16093M)
+Athletics;3200M Steeplechase
+Athletics;3500M Walk
+Athletics;3Miles Team (4828M)
+Athletics;4X400M Relay
+Athletics;5 Miles (8047M)
+Athletics;Discus Throw Ancient Style
+Athletics;Javelin Throw
+Athletics;Javelin Throw Freestyle
+Boxing;- 52.62KG (Bantamweight)
+Boxing;52.62 - 57.15KG (Featherweight)
+Boxing;57.15 - 63.5KG (Lightweight)
+Boxing;63.5 - 71.67KG (Middleweight)
+Cycling Track;1980 Yards Pursuit, Team
+Cycling Track;2000M Tandem
+Cycling Track;20KM
+Cycling Track;5000M
+Cycling Track;One Lap (660Y) Sprint
+Fencing;Épée Team
+Fencing;Sabre Team
+Hockey;Hockey
+Jeu de Paume;Individual
+Rackets;Double
+Rackets;Individual
+Sailing;12M
+Sailing;6M
+Sailing;7M
+Sailing;8M
+Shooting;1000Y Free Rifle, Prone
+Shooting;100M Running Deer, Double Shots
+Shooting;100M Running Deer, Single Shots
+Shooting;100M Running Deer, Single Shots, Team
+Shooting;25Y Small Bore Rifle, Disappearing Target
+Shooting;25Y Small Bore Rifle, Moving Target
+Shooting;300M Free Rifle 3 Positions (3X40 Shots)
+Shooting;50+100Y Small Bore Rifle, Team
+Shooting;50M Rifle Prone (60 Shots)
+Shooting;50Y Army Pistol, Team
+Shooting;Clay Pigeons, Team
+Shooting;Rifle, Team
+Figure skating;Individual
+Figure skating;Pairs
+Figure skating;Special Figures
+Tennis;Doubles Indoor
+Tennis;Singles Indoor
+Water Motorspor;8M Class C
+Water Motorspor;Class B Up To 60 Feet
+Water Motorspor;Open Class A
+Wrestling Free.;- 54KG (Bantamweight)
+Wrestling Free.;+ 73KG (Heavyweight)
+Wrestling Free.;54 - 60.3KG (Featherweight)
+Wrestling Free.;60.3 - 66.6KG (Lightweight)
+Wrestling Free.;66.6 - 73KG (Middleweight)
+Wrestling Gre-R;- 66.6KG (Lightweight)
+Wrestling Gre-R;+ 93KG (Super Heavyweight)
+Wrestling Gre-R;66.6 - 73KG (Middleweight)
+Wrestling Gre-R;73 - 93KG (Light-Heavyweight)
+Diving;Plain High Diving
+Swimming;4X100M Freestyle Relay
+Athletics;10000M
+Athletics;10000M Walk
+Athletics;3000M Team
+Athletics;4X100M Relay
+Athletics;5000M
+Athletics;Cross Country Individual
+Athletics;Cross Country Team
+Athletics;Discus Throw, Both Hands
+Athletics;Javelin Throw, Both Hands
+Athletics;Pentathlon
+Athletics;Shot Put, Both Hands
+Cycling Road;Individual Time Trial
+Cycling Road;Team Time Trial
+Dressage;Individual
+Eventing;Individual
+Eventing;Team
+Jumping;Team
+Artistic G.;Team, Free System
+Artistic G.;Team, Swedish System
+Modern Pentath.;Individual Competition
+Rowing;Coxed Fours Jugriggers
+Sailing;10M
+Shooting;25M Small Bore Rifle, Team
+Shooting;25M Small Rifle
+Shooting;30M Army Pistol, Team
+Shooting;50M Small Bore Rifle, Team
+Shooting;600M Free Rifle
+Tennis;Mixed Doubles Indoor
+Wrestling Gre-R;- 60KG (Featherweight)
+Wrestling Gre-R;+ 82.5KG (Super Heavyweight)
+Wrestling Gre-R;60 - 67.5KG (Lightweight)
+Wrestling Gre-R;67.5 - 75KG (Middleweight)
+Wrestling Gre-R;75 - 82.5KG (Light-Heavyweight)
+Archery;Fixed Bird Target Large Birds
+Archery;Fixed Bird Target Large Birds Teams
+Archery;Fixed Bird Target Small Bird, Teams
+Archery;Fixed Bird Target Small Birds
+Archery;Moving Bird Target 28M Teams
+Archery;Moving Bird Target 33M Teams
+Archery;Moving Bird Target 50M Teams
+Archery;Moving Bird Target, 28M
+Archery;Moving Bird Target, 33M
+Archery;Moving Bird Target, 50M
+Athletics;3000M Walk
+Boxing;- 50.8KG (Flyweight)
+Boxing;+ 79.38KG (Heavyweight)
+Boxing;50.8 - 53.52KG (Bantamweight)
+Boxing;53.52 - 57.15KG (Featherweight)
+Boxing;57.15 - 61.24KG (Lightweight)
+Boxing;61.24 - 66.68KG (Welterweight)
+Boxing;66.68 - 72.57KG (Middleweight)
+Boxing;72.57 - 79.38KG (Light-Heavyweight)
+Cycling Track;50KM
+Cycling Track;Team Pursuit (4000M)
+Vaulting;Figure Riding Individual
+Vaulting;Figure Riding Team
+Ice Hockey;Ice Hockey
+Sailing;10M (Rating 1907)
+Sailing;10M (Rating 1919)
+Sailing;12 Foot Dinghy
+Sailing;12M (Rating 1907)
+Sailing;12M (Rating 1919)
+Sailing;18 Foot Dinghy
+Sailing;30M Sq
+Sailing;40M Sq
+Sailing;6.5M (Rating 1919)
+Sailing;6M (Rating 1907)
+Sailing;6M (Rating 1919)
+Sailing;8M (Rating 1907)
+Sailing;8M (Rating 1919)
+Shooting;100M Running Deer, Double Shots, Team
+Shooting;300+600M Free Rifle, Team, Prone
+Shooting;300M Free Rifle, Prone, Team
+Shooting;300M Free Rifle, Standing, Team
+Shooting;50M Small Bore Rifle, Standing, Individual
+Shooting;600M Free Rifle, Prone
+Shooting;600M Free Rifle, Team
+Weightlifting;- 60KG, One-Two Hand 3 Events (Featherweight)
+Weightlifting;+ 82.5KG, One-Two Hand 3 Events (Heavyweight)
+Weightlifting;60 - 67.5KG, One-Two Hand 3 Events (Lightweight)
+Weightlifting;67.5 - 75KG, One-Two Hand 3 Events (Middleweight)
+Weightlifting;75 - 82.5KG, One-Two Hand 3 E. (Light-Heavyweight)
+Wrestling Free.;- 60KG (Featherweight)
+Wrestling Free.;+ 80KG (Heavyweight)
+Wrestling Free.;60 - 67.5KG (Lightweight)
+Wrestling Free.;67.5 - 75KG (Middleweight)
+Wrestling Free.;75 - 80KG (Light-Heavyweight)
+Wrestling Gre-R;+ 82KG (Super Heavyweight)
+Wrestling Gre-R;75 - 82KG (Light-Heavyweight)
+Artistic G.;Sidehorse Vault
+Sailing;Olympic Class Monotype
+Shooting;400, 600, 800M Free Rifle, Team
+Shooting;600M Free Rifle, Individual
+Weightlifting;- 60KG, One-Two Hand 5 Events (Featherweight)
+Weightlifting;+ 82.5KG, One-Two Hand 5 Events (Heavyweight)
+Weightlifting;60 - 67.5KG, One-Two Hand 5 Events (Lightweight)
+Weightlifting;67.5 - 75KG, One-Two Hand 5 Events (Middleweight)
+Weightlifting;75 - 82.5KG, One-Two Hand 5 E. (Light-Heavyweight)
+Wrestling Free.;- 56KG (Bantamweight)
+Wrestling Free.;+ 87KG (Heavyweight)
+Wrestling Free.;56 - 61KG (Featherweight)
+Wrestling Free.;61 - 66KG (Lightweight)
+Wrestling Free.;66 - 72KG (Welterweight)
+Wrestling Free.;72 - 79KG (Middleweight)
+Wrestling Free.;79 - 87KG (Light-Heavyweight)
+Wrestling Gre-R;- 58KG (Bantamweight)
+Wrestling Gre-R;58 - 62KG (Featherweight)
+Wrestling Gre-R;62 - 67.5KG (Lightweight)
+Cycling Track;1KM Pursuit
+Dressage;Team
+Sailing;12 Foot Dinghy Individual
+Weightlifting;- 60KG, Total (Featherweight)
+Weightlifting;+ 82.5KG, Total (Heavyweight)
+Weightlifting;60 - 67.5KG, Total (Lightweight)
+Weightlifting;67.5 - 75KG, Total (Middleweight)
+Weightlifting;75 - 82.5KG, Total (Light-Heavyweight)
+Wrestling Gre-R;58 - 60KG (Featherweight)
+Athletics;50KM Walk
+Athletics;80M Hurdles
+Boxing;50.8 - 54KG (Bantamweight)
+Boxing;54 - 57.15KG (Featherweight)
+Artistic G.;Floor Exercises
+Artistic G.;Indian Clubs
+Artistic G.;Tumbling
+Sailing;Two-Person Keelboat Open (Star)
+Wrestling Gre-R;- 56KG (Bantamweight)
+Wrestling Gre-R;+ 87KG (Super Heavyweight)
+Wrestling Gre-R;56 - 61KG (Featherweight)
+Wrestling Gre-R;61 - 66KG (Lightweight)
+Wrestling Gre-R;66 - 72KG (Welterweight)
+Wrestling Gre-R;72 - 79KG (Middleweight)
+Wrestling Gre-R;79 - 87KG (Light-Heavyweight)
+Basketball;Basketball
+Canoe / Kayak F;C-1 1000M (Canoe Single)
+Canoe / Kayak F;C-2 10000M
+Canoe / Kayak F;C-2 1000M (Canoe Double)
+Canoe / Kayak F;Folding K-1 10000M
+Canoe / Kayak F;Folding K-2 10000M
+Canoe / Kayak F;K-1 10000M
+Canoe / Kayak F;K-1 1000M (Kayak Single)
+Canoe / Kayak F;K-2 10000M
+Canoe / Kayak F;K-2 1000M (Kayak Double)
+Handball;Handball
+Boxing;- 51KG (Flyweight)
+Boxing;+ 80KG (Heavyweight)
+Boxing;51 - 54KG (Bantamweight)
+Boxing;54 - 58KG (Featherweight)
+Boxing;58 - 62KG (Lightweight)
+Boxing;62 - 67KG (Welterweight)
+Boxing;67 - 73KG (Middleweight)
+Boxing;73 - 80KG (Light-Heavyweight)
+Canoe / Kayak F;C-1 10000M
+Canoe / Kayak F;K-1 500M (Kayak Single)
+Sailing;Dragon
+Sailing;Firefly Class
+Sailing;Swallow (Golondrina)
+Weightlifting;- 56KG, Total (Bantamweight)
+Weightlifting;56 - 60KG, Total (Featherweight)
+Wrestling Free.;- 52KG (Flyweight)
+Wrestling Free.;52 - 57KG (Bantamweight)
+Wrestling Free.;57 - 63KG (Featherweight)
+Wrestling Free.;63 - 67KG (Lightweight)
+Wrestling Free.;67 - 73KG (Welterweight)
+Wrestling Free.;73 - 79KG (Middleweight)
+Wrestling Gre-R;- 52KG (Flyweight)
+Wrestling Gre-R;52 - 57KG (Bantamweight)
+Wrestling Gre-R;57 - 61KG (Featherweight)
+Wrestling Gre-R;61 - 67KG (Lightweight)
+Wrestling Gre-R;67 - 73KG (Welterweight)
+Wrestling Gre-R;73 - 79KG (Middleweight)
+Boxing;+ 81KG (Heavyweight)
+Boxing;54 - 57KG (Featherweight)
+Boxing;57 - 60KG (Lightweight)
+Boxing;60 - 63.5KG (Light-Welterweight)
+Boxing;63.5 - 67KG (Welterweight)
+Boxing;67 - 71KG (Light-Middleweight)
+Boxing;71-75KG
+Boxing;75 - 81KG (Light-Heavyweight)
+Artistic G.;Balance Beam
+Artistic G.;Team, Portable Apparatus
+Artistic G.;Uneven Bars
+Modern Pentath.;Team Competition
+Sailing;5.5M
+Sailing;Single-Handed Dinghy (Finn)
+Shooting;100M Running Deer, Single/Double Shots
+Shooting;50M Rifle 3 Positions (3X40 Shots)
+Weightlifting;+ 90KG, Total (Heavyweight)
+Weightlifting;82.5 - 90KG, Total (Middle-Heavyweight)
+Swimming;100M Butterfly
+Swimming;200M Butterfly
+Athletics;20KM Walk
+Sailing;Sharpie 12M2
+Swimming;4X100M Medley Relay
+Canoe / Kayak F;K-1 4X500M
+Canoe / Kayak F;K-2 500M (Kayak Double)
+Sailing;Flying Dutchman
+Swimming;400M Individual Medley
+Canoe / Kayak F;K-4 1000M (Kayak Four)
+Cycling Track;Individual Pursuit
+Judo;- 68KG (Lightweight)
+Judo;+ 80KG (Heavyweight)
+Judo;68 - 80KG (Middleweight)
+Judo;Open Category
+Volleyball;Volleyball
+Wrestling Free.;+ 97KG (Heavyweight)
+Wrestling Free.;63 - 70KG (Lightweight)
+Wrestling Free.;70 - 78KG (Welterweight)
+Wrestling Free.;78 - 87KG (Middleweight)
+Wrestling Free.;87 - 97KG (Light-Heavyweight)
+Wrestling Gre-R;+ 97KG (Super Heavyweight)
+Wrestling Gre-R;57 - 63KG (Featherweight)
+Wrestling Gre-R;63 - 70KG (Lightweight)
+Wrestling Gre-R;70 - 78KG (Welterweight)
+Wrestling Gre-R;78 - 87KG (Middleweight)
+Wrestling Gre-R;87 - 97KG (Light-Heavyweight)
+Swimming;100M Breaststroke
+Swimming;200M Individual Medley
+Swimming;800M Freestyle
+Boxing;- 48KG (Light-Flyweight)
+Boxing;48 - 51KG (Flyweight)
+Shooting;Skeet (125 Targets)
+Archery;Individual Fita Round
+Athletics;100M Hurdles
+Canoe / Kayak S;C-1 (Canoe Single)
+Canoe / Kayak S;C-2 (Canoe Double)
+Canoe / Kayak S;K-1 (Kayak Single)
+Judo;- 63KG (Lightweight)
+Judo;+ 93KG (Heavyweight)
+Judo;63 - 70KG (Half-Middleweight)
+Judo;70 - 80KG (Middleweight)
+Judo;80 - 93KG (Half-Heavyweight)
+Sailing;Fleet/Match Race Keelboat Open (Soling)
+Sailing;Tempest
+Shooting;50M Running Target (30+30 Shots)
+Weightlifting;- 52KG, Total (Flyweight)
+Weightlifting;+ 110KG, Total (Super Heavyweight)
+Weightlifting;52 - 56KG, Total (Bantamweight)
+Weightlifting;91 - 110KG, Total (Heavyweight)
+Wrestling Free.;- 48KG (Light-Flyweight)
+Wrestling Free.;+ 100KG (Super Heavyweight)
+Wrestling Free.;48 - 52KG (Flyweight)
+Wrestling Free.;57 - 62KG (Featherweight)
+Wrestling Free.;62 - 68KG (Lightweight)
+Wrestling Free.;68 - 74KG (Welterweight)
+Wrestling Free.;74 - 82KG (Middleweight)
+Wrestling Free.;82 - 90KG (Light-Heavyweight)
+Wrestling Free.;90 - 100KG (Heavyweight)
+Wrestling Gre-R;- 48KG (Light-Flyweight)
+Wrestling Gre-R;+ 100KG (Super Heavyweight)
+Wrestling Gre-R;48 - 52KG (Flyweight)
+Wrestling Gre-R;57 - 62KG (Featherweight)
+Wrestling Gre-R;62 - 68KG (Lightweight)
+Wrestling Gre-R;68 - 74KG (Welterweight)
+Wrestling Gre-R;74 - 82KG (Middleweight)
+Wrestling Gre-R;82 - 90KG (Light-Heavyweight)
+Wrestling Gre-R;90 - 100KG (Heavyweight)
+Canoe / Kayak F;C-1 500M (Canoe Single)
+Canoe / Kayak F;C-2 500M (Canoe Double)
+Rowing;Pair Without Coxswain (2-)
+Rowing;Quadruple Sculls With Coxswain (4X)
+Rowing;Quadruple Sculls Without Coxswain (4X)
+Sailing;470 - Two Person Dinghy
+Sailing;Tornado - Multihull
+Judo;- 60 KG
+Judo;+ 95KG (Heavyweight)
+Judo;60 - 65KG (Half-Lightweight)
+Judo;65 - 71KG (Lightweight)
+Judo;71 - 78KG (Half-Middleweight)
+Judo;78 - 86KG (Middleweight)
+Judo;86 - 95KG (Half-Heavyweight)
+Weightlifting;100 - 110KG, Total (Heavyweight)
+Weightlifting;90 - 100KG, Total (First-Heavyweight)
+Synchronized S.;Duet
+Synchronized S.;Solo
+Athletics;3000M
+Athletics;Heptathlon
+Boxing;+ 91KG (Super Heavyweight)
+Boxing;81 - 91KG (Heavyweight)
+Canoe / Kayak F;K-4 500M (Kayak Four)
+Cycling Track;Points Race
+Rhythmic G.;Individual All-Round
+Sailing;Board (Windglider)
+Shooting;10M Air Rifle (40 Shots)
+Shooting;10M Air Rifle (60 Shots)
+Shooting;25M Pistol (30+30 Shots)
+Shooting;50M Rifle 3 Positions (3X20 Shots)
+Swimming;50M Freestyle
+Cycling Track;Sprint
+Sailing;Board (Division Ii)
+Shooting;10M Air Pistol (40 Shots)
+Shooting;10M Air Pistol (60 Shots)
+Table Tennis;Doubles
+Table Tennis;Singles
+Wrestling Free.;100 - 130KG (Super Heavyweight)
+Wrestling Gre-R;100 - 130KG (Super Heavyweight)
+Archery;Individual (Fita Olympic Round - 70M)
+Archery;Team (Fita Olympic Round - 70M)
+Badminton;Doubles
+Badminton;Singles
+Baseball;Baseball
+Judo;- 48KG (Extra-Lightweight)
+Judo;+ 72KG (Heavyweight)
+Judo;48 - 52KG (Half-Lightweight)
+Judo;52 - 56KG (Lightweight)
+Judo;56 - 61KG (Half-Middleweight)
+Judo;61 - 66KG (Middleweight)
+Judo;66 - 72KG (Half-Heavyweight)
+Rowing;Coxless Four (4-)
+Sailing;Board (Lechner)
+Sailing;Single-Handed Dinghy (Europe)
+Synchronized S.;Team
+Mountain Bike;Cross-Country
+Rhythmic G.;Group Competition
+Judo;+ 100KG (Heavyweight)
+Judo;60 - 66KG (Half-Lightweight)
+Judo;66 - 73KG (Lightweight)
+Judo;73 - 81KG (Half-Middleweight)
+Judo;81 - 90KG (Middleweight)
+Judo;90 - 100KG (Half-Heavyweight)
+Rowing;Lightweight Coxless Four (4-)
+Rowing;Lightweight Double Sculls (2X)
+Sailing;Board (Mistral)
+Sailing;Single-Handed Dinghy Open (Laser)
+Shooting;Double Trap (120 Targets)
+Shooting;Double Trap (150 Targets)
+Softball;Softball
+Beach volley.;Beach Volleyball
+Weightlifting;- 54KG, Total (Flyweight)
+Weightlifting;+ 108KG, Total (Super Heavyweight)
+Weightlifting;54 - 59KG, Total (Bantamweight)
+Weightlifting;59 - 64KG, Total (Featherweight)
+Weightlifting;64 - 70KG, Total (Lightweight)
+Weightlifting;70 - 76KG, Total (Middleweight)
+Weightlifting;76 - 83KG, Total (Light-Heavyweight)
+Weightlifting;83 - 91KG, Total (Middle-Heavyweight)
+Weightlifting;91 - 99KG, Total (First-Heavyweight)
+Weightlifting;99 - 108KG, Total (Heavyweight)
+Diving;Synchronized Diving 10M Platform
+Diving;Synchronized Diving 3M Springboard
+Athletics;20KM Race Walk
+Cycling Track;500M Time Trial
+Cycling Track;Keirin
+Cycling Track;Madison
+Cycling Track;Olympic Sprint
+Trampoline;Individual
+Judo;+ 78KG (Heavyweight)
+Judo;52 - 57KG (Lightweight)
+Judo;57 - 63KG (Half-Middleweight)
+Judo;63 - 70KG (Middleweight)
+Judo;70 - 78KG (Half-Heavyweight)
+Sailing;49Er - Skiff
+Shooting;10M Running Target (30+30 Shots)
+Shooting;Skeet (75 Targets)
+Shooting;Trap (75 Targets)
+Taekwondo;- 49 KG
+Taekwondo;- 58 KG
+Taekwondo;+ 67 KG
+Taekwondo;+ 80 KG
+Taekwondo;49 - 57 KG
+Taekwondo;57 - 67 KG
+Taekwondo;58 - 68 KG
+Taekwondo;68 - 80 KG
+Triathlon;Individual
+Weightlifting;+ 105KG
+Weightlifting;+ 75KG
+Weightlifting;105KG
+Weightlifting;48KG
+Weightlifting;53KG
+Weightlifting;56KG
+Weightlifting;58KG
+Weightlifting;62KG
+Weightlifting;63KG
+Weightlifting;69KG
+Weightlifting;75KG
+Weightlifting;77KG
+Weightlifting;85KG
+Weightlifting;94KG
+Wrestling Free.;48 - 54KG
+Wrestling Free.;54 - 58KG
+Wrestling Free.;58 - 63KG
+Wrestling Free.;63 - 69KG
+Wrestling Free.;69 - 76KG
+Wrestling Free.;76 - 85KG
+Wrestling Free.;85 - 97KG
+Wrestling Free.;97 - 130KG
+Wrestling Gre-R;48 - 54KG
+Wrestling Gre-R;54 - 58KG
+Wrestling Gre-R;58 - 63KG
+Wrestling Gre-R;63 - 69KG
+Wrestling Gre-R;69 - 76KG
+Wrestling Gre-R;76 - 85KG
+Wrestling Gre-R;85 - 97KG
+Wrestling Gre-R;97 - 130KG
+Boxing;48KG (Light Flywieght)
+Boxing;60 - 64 KG
+Boxing;64 - 69 KG
+Boxing;69 - 75 KG
+Cycling Track;Team Sprint
+Judo;- 48 KG
+Sailing;Star - Keelboat
+Sailing;Yngling - Keelboat
+Wrestling Free.;- 48KG
+Wrestling Free.;- 55KG
+Wrestling Free.;48 - 55KG
+Wrestling Free.;55 - 60KG
+Wrestling Free.;55 - 63KG
+Wrestling Free.;60 - 66KG
+Wrestling Free.;63 - 72KG
+Wrestling Free.;66 - 74KG
+Wrestling Free.;74 - 84KG
+Wrestling Free.;84 - 96KG
+Wrestling Free.;96 - 120KG
+Wrestling Gre-R;- 55KG
+Wrestling Gre-R;55 - 60KG
+Wrestling Gre-R;60 - 66KG
+Wrestling Gre-R;66 - 74KG
+Wrestling Gre-R;74 - 84KG
+Wrestling Gre-R;84 - 96KG
+Wrestling Gre-R;96 - 120KG
+Swimming;Marathon 10KM
+BMX;Individual
+Sailing;Finn - Heavyweight Dinghy
+Sailing;Laser - One Person Dinghy
+Sailing;Laser Radial - One Person Dinghy
+Sailing;Rs:X - Windsurfer
+Table Tennis;Team
+Diving;Synchronized 10M
+Diving;Synchronized 3M
+Marathon swimming;10KM
+Swimming;200M Medley
+Swimming;400M Medley
+Swimming;4X100M Freestyle
+Swimming;4X100M Medley
+Swimming;4X200M Freestyle
+Synchronized Swimming;Duet
+Synchronized Swimming;Team
+Archery;Individual
+Archery;Team
+Athletics;3000M Steeple
+Boxing;+ 91KG
+Boxing;46 - 49KG
+Boxing;51 KG
+Boxing;52KG
+Boxing;56KG
+Boxing;57 - 60KG
+Boxing;60 KG
+Boxing;75 - 81KG
+Boxing;75 KG
+Boxing;81 - 91KG
+Canoe Slalom;C-1 (Single)
+Canoe Slalom;C-2 (Double)
+Canoe Slalom;K-1 (Single)
+Canoe Sprint;C-1 1000M
+Canoe Sprint;C-1 200M
+Canoe Sprint;C-2 1000M
+Canoe Sprint;K-1 1000M
+Canoe Sprint;K-1 200M
+Canoe Sprint;K-1 500M
+Canoe Sprint;K-2 1000M
+Canoe Sprint;K-2 200M
+Canoe Sprint;K-2 500M
+Canoe Sprint;K-4 1000M
+Canoe Sprint;K-4 500M
+Cycling BMX;Individual
+Cycling Road;Individual Road
+Cycling Road;Time Trial
+Cycling Track;Omnium
+Cycling Track;Team Pursuit
+Gymnastics Artistic;Beam
+Gymnastics Artistic;Floor Exercises
+Gymnastics Artistic;Horizontal Bar
+Gymnastics Artistic;Individual All-Around
+Gymnastics Artistic;Parallel Bars
+Gymnastics Artistic;Pommel Horse
+Gymnastics Artistic;Rings
+Gymnastics Artistic;Team Competition
+Gymnastics Artistic;Uneven Bars
+Gymnastics Artistic;Vault
+Gymnastics Rhythmic;Group Competition
+Gymnastics Rhythmic;Individual All-Around
+Judo;+ 100KG
+Judo;+ 78KG
+Judo;48 - 52KG
+Judo;52 - 57KG
+Judo;57 - 63KG
+Judo;60 - 66KG
+Judo;63 - 70KG
+Judo;66 - 73KG
+Judo;70 - 78KG
+Judo;73 - 81KG
+Judo;81 - 90KG
+Judo;90 - 100KG
+Modern Pentathlon;Individual
+Rowing;Coxless Four
+Rowing;Coxless Pair 2-
+Rowing;Double Sculls
+Rowing;Eight With Coxswain
+Rowing;Lightweight 4
+Rowing;Lightweight Doubles
+Rowing;Quadruple Sculls
+Rowing;Single Sculls
+Sailing;470
+Sailing;Elliott 6M
+Sailing;Finn
+Sailing;Laser
+Sailing;Laser Radial
+Sailing;Rs:X
+Sailing;Star
+Shooting;10M Air Pistol
+Shooting;10M Air Rifle
+Shooting;25M Pistol
+Shooting;25M Rapid Pistol
+Shooting;50M Pistol
+Shooting;50M Rifle 3 Positions
+Shooting;50M Rifle Prone
+Shooting;Double Trap 150
+Shooting;Skeet
+Shooting;Trap
+Beach Volleyball;Beach Volleyball
+Weightlifting;+105KG
+Weightlifting;+75KG
+Weightlifting;-56KG
+Wrestling Freestyle;Wf 120KG
+Wrestling Freestyle;Wf 48 KG
+Wrestling Freestyle;Wf 55 KG
+Wrestling Freestyle;Wf 60 KG
+Wrestling Freestyle;Wf 63 KG
+Wrestling Freestyle;Wf 66 KG
+Wrestling Freestyle;Wf 72 KG
+Wrestling Freestyle;Wf 74 KG
+Wrestling Freestyle;Wf 84 KG
+Wrestling Freestyle;Wf 96 KG
+Wrestling Freestyle;Wg 120 KG
+Wrestling Freestyle;Wg 55 KG
+Wrestling Freestyle;Wg 60 KG
+Wrestling Freestyle;Wg 66 KG
+Wrestling Freestyle;Wg 74 KG
+Wrestling Freestyle;Wg 84 KG
+Wrestling Freestyle;Wg 96 KG
+Biathlon;Military Patrol
+Bobsleigh;Four-Man
+Curling;Curling
+Speed skating;10000M
+Speed skating;1500M
+Speed skating;5000M
+Speed skating;500M
+Speed skating;Combined (4 Events)
+Cross Country Skiing;18KM
+Cross Country Skiing;50KM
+Nordic Combined;Individual
+Ski Jumping;K90 Individual (70M)
+Bobsleigh;Five-Man
+Skeleton;Individual
+Bobsleigh;Two-Man
+Alpine Skiing;Alpine Combined
+Cross Country Skiing;4X10KM Relay
+Alpine Skiing;Downhill
+Alpine Skiing;Slalom
+Alpine Skiing;Giant Slalom
+Cross Country Skiing;10KM
+Cross Country Skiing;15KM
+Cross Country Skiing;30KM Mass Start
+Cross Country Skiing;3X5KM Relay
+Biathlon;20KM
+Speed skating;1000M
+Speed skating;3000M
+Luge;Doubles
+Luge;Singles
+Cross Country Skiing;5KM
+Ski Jumping;K120 Individual (90M)
+Biathlon;4X7.5KM Relay
+Figure skating;Ice Dancing
+Cross Country Skiing;4X5KM Relay
+Biathlon;10KM
+Cross Country Skiing;20KM
+Alpine Skiing;Super-G
+Nordic Combined;Team
+Ski Jumping;K120 Team (90M)
+Biathlon;15KM
+Biathlon;7.5KM
+Short Track Speed Skating;1000M
+Short Track Speed Skating;3000M Relay
+Short Track Speed Skating;5000M Relay
+Short Track Speed Skating;500M
+Cross Country Skiing;10KM Pursuit
+Cross Country Skiing;15KM Mass Start
+Cross Country Skiing;30KM
+Cross Country Skiing;Combined 10KM + 15KM Pursuit
+Cross Country Skiing;Combined 5KM + 10KM Pursuit
+Freestyle Skiing;Moguls
+Freestyle Skiing;Aerials
+Snowboard;Giant-Slalom
+Snowboard;Half-Pipe
+Biathlon;10KM Pursuit
+Biathlon;12.5Km Pursuit
+Short Track Speed Skating;1500M
+Cross Country Skiing;5Km Pursuit
+Cross Country Skiing;Sprint 1.5KM
+Nordic Combined;Sprint
+Snowboard;Giant Parallel Slalom
+Biathlon;12.5KM Mass Start
+Biathlon;15KM Mass Start
+Biathlon;4X6KM Relay
+Speed skating;Team Pursuit
+Cross Country Skiing;Combined 15 + 15KM Mass Start
+Cross Country Skiing;Combined 7.5 + 7.5Km Mass Start
+Cross Country Skiing;Team Sprint
+Nordic Combined;Individual Sprint
+Snowboard;Snowboard Cross
+Alpine Skiing;Super Combined
+Freestyle Skiing;Ski Cross
+Nordic Combined;Individual, Ski Jumping K90 (70M)
+Nordic Combined;Sprint K120
+Nordic Combined;Team, 4X5 KM
+Biathlon;Relay Mix
+Bobsleigh;Two-Woman
+Luge;Mixed Relay
+Figure skating;Team
+Cross Country Skiing;Combined 15+15K
+Cross Country Skiing;Combined7.5+7.5
+Freestyle Skiing;Ski Halfpipe
+Freestyle Skiing;Ski Slopestyle
+Nordic Combined;Ind. K90 (70M)
+Ski Jumping;Large Hill
+Ski Jumping;Normal Hill
+Ski Jumping;Teams
+Ski Jumping;K90 Individual
+Snowboard;Giant Parall.S.
+Snowboard;Parallel Slalom
+Snowboard;Slopestyle
